@@ -14,7 +14,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "Kyanite Nepal",
-  description: "kyanite;kynite;gemstone;gem;tourmaline;jewellery",
+  description: "kyanite;kynite;gemstone;gem;tourmaline;jewellery;kynitenepal;kyanitenepal",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
