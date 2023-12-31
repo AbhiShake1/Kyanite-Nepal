@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Page() {
   return <main className="flex flex-col gap-8 p-4 text-black dark:text-white">
     <section className="flex flex-col items-center text-center">
-      <h1 className="text-4xl font-bold">Welcome to Kyanite Nepal</h1>
+      <h1 className="text-4xl font-bold">Kyanite Nepal</h1>
       <p className="max-w-lg mt-4 text-lg text-gray-600 dark:text-gray-300">
         Experience the timeless beauty of Kyanite gemstones sourced directly from the mountains of Nepal.
       </p>
