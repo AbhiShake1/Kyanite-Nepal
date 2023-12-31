@@ -43,7 +43,7 @@ export function HomeLayout({ children }: { children: ReactNode }) {
       </header>
       {children}
       <footer className="flex h-14 items-center justify-center border-t">
-        <p className="text-sm text-gray-600">© Nepal Kyanite. All rights reserved.</p>
+        <p className="text-sm text-gray-600">© Kyanite Nepal. All rights reserved.</p>
       </footer>
     </div>
   )
